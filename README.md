@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 I’m Sanjeev, an enthusiastic and detail-oriented Engineering graduate with a strong passion for full-stack web development. With a solid foundation in front-end technologies like HTML5, CSS3, and basic JavaScript, I enjoy bringing creative ideas to life through clean, responsive, and user-friendly web interfaces.<br><br>During my academic journey at Rajalakshmi Engineering College, I’ve actively pursued hands-on learning through personal projects and certifications, building clones of real-world platforms like Udemy, TripAdvisor, and a plant shopping site called Greenden. I also have experience with Python game development and image processing using MATLAB, showcasing my versatility and eagerness to explore diverse technologies.<br><br>I’m a quick learner with a strong sense of adaptability, problem-solving ability, and collaborative spirit. I believe in continuous improvement and am always excited to learn new tools and frameworks as I work toward becoming a proficient full-stack developer.
 
 
